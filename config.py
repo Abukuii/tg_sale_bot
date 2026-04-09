@@ -1,8 +1,8 @@
-TOKEN = "8621671571:AAHKpK7I3IE2kIpCuo4amVf0yef5H1wAXOw"
+TOKEN = ""
 
-CHANNEL = "@xusniddinnematov_blog"
+CHANNEL = ""
 
-ADMIN_ID = 7175429890
+ADMIN_ID = 
 
 ADMIN = "@xusniddin_nematov"
 
